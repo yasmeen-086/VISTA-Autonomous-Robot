@@ -1,7 +1,7 @@
-# Semantic Navigation AMR
+# VISTA-Autonomous-Robot
 
 Drive a mobile robot with natural language. Say *"go to the fire extinguisher"*
-(or *"소화기 앞으로 가"*) and the robot resolves the named object to a map
+ and the robot resolves the named object to a map
 coordinate it learned by looking around, then plans and navigates there with
 Nav2 — stopping in front of the object, facing it.
 
